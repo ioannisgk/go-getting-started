@@ -1,1 +1,1 @@
-# go-getting-started
+# golang-getting-started
